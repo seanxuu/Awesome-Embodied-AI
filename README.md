@@ -25,4 +25,8 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 ### <a name="agent"></a> Agent
 * **ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models** <br>
 *Chenliang Li, Hehong Chen, Ming Yan, Weizhou Shen, Haiyang Xu, Zhikai Wu, Zhicheng Zhang, Wenmeng Zhou, Yingda Chen, Chen Cheng, Hongzhu Shi, Ji Zhang, Fei Huang, Jingren Zhou* <br>
-arXiv, 2309. [[Paper]](https://arxiv.org/abs/2309.00986) [[Code]](https://github.com/allenai/ai2thor) 
+arXiv, 2309. [[Paper]](https://arxiv.org/abs/2309.00986) [[Code]](https://github.com/allenai/ai2thor)
+
+* **KwaiAgents: Generalized Information-seeking Agent System with Large Language Models** <br>
+*Haojie Pan, Zepeng Zhai, Hao Yuan, Yaojia Lv, Ruiji Fu, Ming Liu, Zhongyuan Wang, Bing Qin* <br>
+arXiv, 2312. [[Paper]](https://arxiv.org/abs/2312.04889) [[Code]](https://github.com/KwaiKEG/KwaiAgents) 
