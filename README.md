@@ -35,6 +35,10 @@ arXiv, 2312. [[Paper]](https://arxiv.org/abs/2312.04889) [[Code]](https://github
 
 ### <a name="tool"></a> Tool
 
+* **Toolformer: Language Models Can Teach Themselves to Use Tools** <br>
+*Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom* <br>
+arXiv, 2302. [[Paper]](https://arxiv.org/abs/2302.04761) 
+
 * **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** <br>
 *Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Lauren Hong, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun* <br>
 arXiv, 2307. [[Paper]](https://arxiv.org/abs/2307.16789) [[Code]](https://github.com/OpenBMB/ToolBench) [[Website]](https://openbmb.github.io/ToolBench/)
