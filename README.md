@@ -51,6 +51,10 @@ arXiv, 2305. [[Paper]](https://arxiv.org/abs/2305.15334) [[Code]](https://github
 *Rui Yang, Lin Song, Yanwei Li, Sijie Zhao, Yixiao Ge, Xiu Li, Ying Shan* <br>
 arXiv, 2305. [[Paper]](https://arxiv.org/abs/2305.18752) [[Code]](https://github.com/AILab-CVC/GPT4Tools) [[Website]](https://gpt4tools.github.io/)
 
+* **ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases** <br>
+*Qiaoyu Tang, Ziliang Deng, Hongyu Lin, Xianpei Han, Qiao Liang, Boxi Cao, Le Sun* <br>
+arXiv, 2306. [[Paper]](https://arxiv.org/abs/2306.05301) [[Code]](https://github.com/tangqiaoyu/ToolAlpaca) 
+
 * **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** <br>
 *Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Lauren Hong, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun* <br>
 arXiv, 2307. [[Paper]](https://arxiv.org/abs/2307.16789) [[Code]](https://github.com/OpenBMB/ToolBench) [[Website]](https://openbmb.github.io/ToolBench/)
