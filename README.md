@@ -41,7 +41,11 @@ arXiv, 2205. [[Paper]](https://arxiv.org/abs/2205.12255)
 
 * **Toolformer: Language Models Can Teach Themselves to Use Tools** <br>
 *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom* <br>
-arXiv, 2302. [[Paper]](https://arxiv.org/abs/2302.04761) 
+arXiv, 2302. [[Paper]](https://arxiv.org/abs/2302.04761)
+
+* **Gorilla: Large Language Model Connected with Massive APIs** <br>
+*Shishir G. Patil, Tianjun Zhang, Xin Wang, Joseph E. Gonzalez* <br>
+arXiv, 2305. [[Paper]](https://arxiv.org/abs/2305.15334) [[Code]](https://github.com/ShishirPatil/gorilla) [[Website]](https://gorilla.cs.berkeley.edu/)
 
 * **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** <br>
 *Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Lauren Hong, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun* <br>
