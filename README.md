@@ -35,6 +35,10 @@ arXiv, 2312. [[Paper]](https://arxiv.org/abs/2312.04889) [[Code]](https://github
 
 ### <a name="tool"></a> Tool
 
+* **TALM: Tool Augmented Language Models** <br>
+*Aaron Parisi, Yao Zhao, Noah Fiedel* <br>
+arXiv, 2205. [[Paper]](https://arxiv.org/abs/2205.12255)
+
 * **Toolformer: Language Models Can Teach Themselves to Use Tools** <br>
 *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom* <br>
 arXiv, 2302. [[Paper]](https://arxiv.org/abs/2302.04761) 
